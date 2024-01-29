@@ -1,0 +1,5 @@
+For a fair coin, the probability of landing heads on any single flip is 0.5.
+
+The probability of getting heads five times in a row with a fair coin is 0.5^5=0.03125, which is approximately 3.125%.
+
+So if the probability that I observe 5 or more heads in a row is less than 5%, I might start to doubt the fairness of the coin.
